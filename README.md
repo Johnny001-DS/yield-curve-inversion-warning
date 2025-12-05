@@ -90,3 +90,7 @@ Metrics  : AUC | PR-AUC | Brier | Precision | Recall | F1
 Run interactive dashboard locally:  
 ```bash
 streamlit run app.py
+```
+## Author
+1. Karan Badlani | MS in Data Science | Northeastern Universtity
+2. Sajan Arora | MS in Data Science | Northeastern Universtity
